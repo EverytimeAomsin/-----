@@ -1,0 +1,5 @@
+ดาวน์โหลดโปรเจคเข้าเครื่อง : git clone https://github.com/EverytimeAomsin/HIGHWAY18-build-road.git
+อัพเดทไฟล์ที่เปลียนแปลงใน Git มาอัพเดทไฟล์ในโฟลเดอร์นี้ : git pull
+เพิ่มไฟล์ที่แก้ไขเข้าสู่ Git :
+git commit -m “ <พิมพ์ประวัติที่เปลียนแปลง(พิมพ์อะไรก็ได้)> ”
+git push
